@@ -1,0 +1,489 @@
+*{
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+    font-family: "Fira Sans", serif;
+
+    padding: 0px;
+    margin: 0px;
+
+
+
+
+
+}
+
+
+#body-background{
+    background-color: #f5f5f5;
+
+
+}
+#body-width{
+    width: 1010px;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+
+
+
+
+
+}
+
+h1{
+    font-size: 47px;
+    font-weight: bold;
+
+
+
+}
+
+h2{
+    font-size: 33px;
+    font-weight: bold;
+
+
+
+}
+
+h3{
+    font-size: 26px;
+    font-weight: bold;
+
+
+
+}
+
+h4{
+    font-size: 16px;
+    font-weight: bold;
+
+
+}
+
+h5{
+
+
+
+}
+
+p{
+    font-size: 13px;
+    color:#626262;
+    font-weight: 400;
+
+
+
+}
+
+
+/* Header Area */
+
+
+
+.greenish-color{
+    background-color: #C6E4D6;
+    border-radius: 10px;
+
+
+
+}
+
+.greenish-color-button{
+    background-color: #066A50;
+    width: 100%;
+    font-size: 15px;
+    font-weight: 600;
+    /* padding: 8px 0px; */
+    border-radius: 10px;
+    color: #ffffff;
+    border: none;
+    height:47px;
+
+
+}
+
+
+
+
+header> nav> h3{
+    color: #0E0E0E;
+
+
+
+}
+
+#sign-in{
+    background-color: white;
+    border: 2px solid gree;
+    border-radius: 10px;
+    /* height:47px; */
+    padding: 10px 20px;
+    border: 2px solid #066A50;
+    color: #066A50;
+
+
+
+
+
+}
+
+.main-header{
+    width: 100%;
+    height: 474px;
+    display: flex;
+    /* gap: 30px; */
+    align-items: center;
+    padding: 30px;
+
+
+
+}
+
+.section1{
+    width: 522px;
+    height: 273px;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    text-align: left;
+    margin-top: 40px;
+    margin-left: 20px;
+    justify-content: space-between;
+
+}
+
+.section1> p{
+   font-size: 20px;
+   font-weight: 500;
+   color: #0E0E0E;
+
+}
+.section1> button{
+    height:47px;
+    width:245px;
+
+
+}
+
+.section2{
+
+
+}
+
+.section2 > img{
+    height: 336px;
+    width: 398px;
+
+
+
+
+}
+/* Main Area/ This area is divided by 6 segments. */
+
+
+/* Main Area 1 */
+
+main{
+    margin-top: 70px;
+
+
+
+}
+.main1> h2{
+
+    text-align: left;
+
+
+}
+
+.pillar-flex{
+    display: flex;
+    gap: 25px;
+
+
+    
+}
+
+.pillar-box{
+    margin-top: 35px;
+    width: 253px;
+    height: 202px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: left;
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+ 
+
+
+}
+
+.pillar-box> img{
+   height: 53px;
+   width: 53px;
+
+
+}
+
+
+/* Main Area 2  */
+
+
+
+.main2{
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+
+
+
+}
+
+.main-area-heading{
+    text-align: left;
+    margin-bottom: -20px;
+
+
+}
+
+
+.vision-flex{
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    /* justify-content: space-evenly; */
+    text-align: left;
+
+
+
+
+}
+
+
+
+.vision-box{
+    width: 33.33%;
+    height: 273px;
+    border-radius: 10px;
+    border: none;
+    display: flex;
+    flex-direction: column;
+    /* gap: 20px; */
+    padding: 35px;
+    justify-content: center;
+}
+
+.vision-box> img, h4, p{
+    margin-bottom: 20px;
+
+
+}
+
+.vision-box>button{
+    margin-top: 20px;
+
+
+}
+
+
+
+
+.vision-box> img{
+    height: 53px;
+    width: 53px;
+ 
+
+
+}
+
+/* Box Style */
+
+#vision-box-color1{
+    background-color:#d5e1f5;
+    
+
+
+
+}
+
+#vision-box-color2{
+   background-color: #C6E4D6;
+
+
+
+}
+
+#vision-box-color3{
+    background-color: #F7EBCF;
+    border-radius: 7px;
+    border: none;
+
+
+
+
+
+}
+
+/* Button Style */
+
+
+#main-area-button1{
+    background-color: #5490F5;
+    border-radius: 7px;
+    border: none;
+    height: 34px;
+    width: 102px;
+
+
+
+
+}
+
+#main-area-button2{
+    background-color: #09A15C;
+    border-radius: 7px;
+    border: none;
+    height: 34px;
+    width: 102px;
+
+
+
+
+
+    
+}
+
+
+#main-area-button3{
+    background-color: #FFC239;
+    border-radius: 7px;
+    border: none;
+    height: 34px;
+    width: 102px;
+
+
+    
+}
+
+
+
+/* Professior Dr Muhammed Yunus's Quote */
+
+
+.dr-yonus-quote{
+
+    /* height: 202px; */
+    background-color: white;
+    padding: 30px 40px;
+    border-radius: 10px;
+
+
+
+
+}
+.qoute-img{
+    width: 99%;
+    background-image: url(assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    text-align: left;
+
+
+
+}
+
+
+.qoute-img>.quote-padding-top{
+    padding-top: 20px;
+    
+
+
+}
+
+
+/* 3rd Main Area */
+
+
+.main3{
+    margin-top: 70px;
+
+
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    
+
+}
+
+tr, td{
+    border: 2px solid rgb(228, 228, 228);
+    /* padding-top: 20px;
+    padding-bottom: 20px; */
+    /* padding: 20px; */
+    padding: 10px 20px;
+
+
+
+}
+
+.question-padding{
+    padding-top: 20px;
+
+
+}
+
+.table-button{
+    width: 150px;
+    height: 45px;
+    background-color: #C6E4D6;
+    border: 1px solid green;
+    margin-left: 65px;
+
+
+
+
+}
+
+/* .button-align{
+    text-align: center
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
