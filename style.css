@@ -111,6 +111,13 @@ p{
 
 }
 
+#for-hover:hover{
+    background-color: #ff8f8f;
+
+
+
+}
+
 .greenish-color-button:hover{
     background-color: #0591AF;
     
@@ -332,6 +339,11 @@ main{
 
 }
 
+/* .vision-box>button:hover{
+    background-color: #0591AF;
+
+} */
+
 
 
 
@@ -352,6 +364,7 @@ main{
 
 
 }
+
 
 #vision-box-color2{
    background-color: #C6E4D6;
@@ -386,6 +399,14 @@ main{
 
 }
 
+#main-area-button1:hover{
+    background-color: #ecfcf4;
+
+
+}
+
+
+
 #main-area-button2{
     background-color: #09A15C;
     border-radius: 7px;
@@ -399,6 +420,11 @@ main{
 
     
 }
+#main-area-button2:hover{
+    background-color: #e4ecfa;
+
+
+}
 
 
 #main-area-button3{
@@ -411,6 +437,16 @@ main{
 
     
 }
+
+#main-area-button3:hover{
+    background-color: #d5e1f5;
+    
+
+
+
+}
+
+
 
 .table-button :hover{
     /* background-color: aquamarine; */
@@ -606,6 +642,14 @@ td{
     padding: 30px;
     align-items: center;
     gap: 50px;
+
+
+
+
+}
+
+.main4-box1:hover{
+    background-color: aliceblue;
 
 
 
@@ -817,6 +861,11 @@ main{
     padding-left: 20px;
 
 
+
+
+}
+.h3-sub{
+    color: #F0B36A;
 
 
 }
