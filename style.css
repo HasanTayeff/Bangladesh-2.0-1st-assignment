@@ -263,6 +263,7 @@ main{
 
 }
 
+
 .pillar-box:hover{
     /* background-color: #F0C993; */
     background-color: #0591AF;
@@ -325,6 +326,7 @@ main{
     /* gap: 20px; */
     padding: 35px;
     justify-content: center;
+
 }
 
 .vision-box> img, h4, p{
@@ -914,6 +916,15 @@ footer{
 
 
 }
+
+.redish-color{
+    color: #ff8f8f;
+
+
+
+}
+
+
 
 .copyright-color{
     color: rgb(240, 156, 0);
