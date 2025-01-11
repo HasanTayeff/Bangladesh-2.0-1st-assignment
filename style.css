@@ -97,6 +97,15 @@ p{
 
 }
 
+.greenish-color:hover{
+    background-color: aliceblue;
+
+
+}
+
+
+
+
 .greenish-color-button{
     background-color: #066A50;
     width: 100%;
