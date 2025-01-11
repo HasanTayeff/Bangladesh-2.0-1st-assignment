@@ -74,7 +74,7 @@ h5{
 }
 
 p{
-    font-size: 13px;
+    font-size: 18px;
     color:#626262;
     font-weight: 400;
 
@@ -546,7 +546,7 @@ td{
 }
 
 .main4-box1{
-    width: 100%;
+    /* width: 100%; */
     height: 337px;
     background-color: white;
     border-radius: 10px;
@@ -643,7 +643,7 @@ td{
     display: flex;
     flex-direction: column;
     gap: 25px;
-    padding: 40px;
+    /* padding: 40px; */
     justify-content: center;
     align-items: center;
 
@@ -716,6 +716,74 @@ td{
 
 
 }
+
+
+/* 5th Main Area */
+
+#main5{
+    width: 100%;
+    height: 331px;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+    gap: 20px;
+
+
+
+
+}
+#email-size{
+
+    width: 504px;
+    height: 46px;
+    border: none;
+    padding-left: 20px;
+
+
+
+
+}
+
+.subscribe-button{
+    background-color: #066A50;
+    width: 126px;
+    height: 47px;
+    border: none;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    margin-left: -3px;
+
+
+}
+
+
+
+/* This is the dead end of the main section */
+
+
+
+/* Footer Area */
+
+footer{
+    margin-top: 70px;
+    background-color: white;
+
+
+
+}
+
+/* .footer-align{
+    text-align: center;
+    padding-top: 25px;
+
+
+
+} */
+
+
 
 
 
